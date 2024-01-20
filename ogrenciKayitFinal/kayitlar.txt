@@ -1,0 +1,9 @@
+{"DersKodu":"202410","DersAd":"mat","DersDonem":"bahar","OgretimGorevlisi":"klmn"}
+{"OgrenciNo":"20210108006","OgrenciAd":"yigit can","OgrenciSoyad":"dokuz","OgrenciBolum":"bip","OgrenciDers":"Matematik"}
+{"OgretmenNo":"20210108009","Ad":"klmn","Soyad":"gbg","Bolum":"bip","VerdigiDers":"Matematik"}
+{"DersKodu":"bip1025","DersAd":"mat","DersDonem":"bahar","OgretimGorevlisi":"fgdhgh"}
+{"OgrenciNo":"20210108006","OgrenciAd":"yigit can","OgrenciSoyad":"dokuz","OgrenciBolum":"bip","OgrenciDers":"Matematik"}
+{"OgretmenNo":"1651321","Ad":"khnmk","Soyad":"fgvb","Bolum":"bip","VerdigiDers":"Matematik"}
+{"DersKodu":"1050","DersAd":"matematik","DersDonem":"bahar","OgretimGorevlisi":"klm"}
+{"OgrenciNo":"20210108006","OgrenciAd":"yigit can","OgrenciSoyad":"dokuz","OgrenciBolum":"Bilgisayar Programcılığı","OgrenciDers":"Matematik"}
+{"OgretmenNo":"452","Ad":"klm","Soyad":"mlk","Bolum":"Bilgisayar programcılığı","VerdigiDers":"Matematik"}
